@@ -18,7 +18,7 @@ This is a Django-based project for managing tasks and projects with basic functi
 
 1. Clone the repository:
 
-   git clone <repository_url>
+   git clone https://github.com/finu-fayiz/Todo-TASK-manager.git>
 
 # Developer says
 
